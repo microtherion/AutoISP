@@ -239,22 +239,22 @@
 <devices>
 <device name="" package="TSSOP-16">
 <connects>
-<connect gate="G$1" pin="!OE" pad="10"/>
-<connect gate="G$1" pin="1A" pad="12"/>
+<connect gate="G$1" pin="!OE" pad="15"/>
+<connect gate="G$1" pin="1A" pad="13"/>
 <connect gate="G$1" pin="1B" pad="1"/>
 <connect gate="G$1" pin="1C" pad="2"/>
-<connect gate="G$1" pin="2A" pad="13"/>
+<connect gate="G$1" pin="2A" pad="12"/>
 <connect gate="G$1" pin="2B" pad="3"/>
 <connect gate="G$1" pin="2C" pad="4"/>
-<connect gate="G$1" pin="3A" pad="14"/>
+<connect gate="G$1" pin="3A" pad="11"/>
 <connect gate="G$1" pin="3B" pad="5"/>
 <connect gate="G$1" pin="3C" pad="6"/>
-<connect gate="G$1" pin="4A" pad="15"/>
+<connect gate="G$1" pin="4A" pad="10"/>
 <connect gate="G$1" pin="4B" pad="7"/>
 <connect gate="G$1" pin="4C" pad="8"/>
-<connect gate="G$1" pin="GND" pad="16"/>
-<connect gate="G$1" pin="S" pad="11"/>
-<connect gate="G$1" pin="VCC" pad="9"/>
+<connect gate="G$1" pin="GND" pad="9"/>
+<connect gate="G$1" pin="S" pad="14"/>
+<connect gate="G$1" pin="VCC" pad="16"/>
 </connects>
 <technologies>
 <technology name=""/>
