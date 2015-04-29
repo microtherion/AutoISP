@@ -825,8 +825,8 @@ Standard 7-pin 0.1" header. Use with straight break away headers (SKU : PRT-0011
 <part name="J1" library="SparkFun-Connectors" deviceset="AVR_SPI_PRG_6" device="PTH" value="MCU"/>
 <part name="J2" library="SparkFun-Connectors" deviceset="AVR_SPI_PRG_6" device="PTH" value="BOARD"/>
 <part name="U1" library="Atmel_By_element14_Batch_1-00" deviceset="ATTINY84-20PU" device=""/>
-<part name="JP1" library="SparkFun-Connectors" deviceset="M07" device="POGOPINS_HOLES_ONLY"/>
-<part name="JP2" library="SparkFun-Connectors" deviceset="M07" device="POGOPINS_HOLES_ONLY"/>
+<part name="JP1" library="SparkFun-Connectors" deviceset="M07" device=""/>
+<part name="JP2" library="SparkFun-Connectors" deviceset="M07" device=""/>
 </parts>
 <sheets>
 <sheet>

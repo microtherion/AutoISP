@@ -1,0 +1,9 @@
+Partlist exported from /Users/neeri/Development/eagle/AutoISP/AutoISP.sch at 29/04/15 05:03
+
+Part  Value            Device           Package  Description   
+R1    10kΩ             RESISTOR0603-RES 0603-RES Resistor      
+R2    1kΩ              RESISTOR0603-RES 0603-RES Resistor      
+U$1   STMAV340TTR      STMAV340TTR      TSSOP-16               
+LED1  ORANGE           LED1206          LED-1206 LEDs          
+PROG  AVR_SPI_PRG_6PTH AVR_SPI_PRG_6PTH 2X3      AVR ISP 6 Pin 
+MCU/BOARD                               4X3      Female Header
