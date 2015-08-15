@@ -400,7 +400,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <library name="Boxtec-veclogo">
 <packages>
 <package name="ROBOXTEC-VECLOGO-MICRO">
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="-1.482725" y="-2.10865625"/>
 <vertex x="-1.482725" y="-2.24835625"/>
 <vertex x="-1.451990625" y="-2.24835625"/>
@@ -429,7 +429,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="-1.234059375" y="-2.15615625"/>
 <vertex x="-1.36956875" y="-2.10865625"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="-1.482725" y="-2.10865625"/>
 <vertex x="-1.7272" y="-2.10865625"/>
 <vertex x="-1.7272" y="-2.79039375"/>
@@ -443,7 +443,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="-1.5358125" y="-2.24835625"/>
 <vertex x="-1.482725" y="-2.24835625"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="-0.7325375" y="-2.794559375"/>
 <vertex x="-0.7325375" y="-2.628315625"/>
 <vertex x="-0.7674625" y="-2.64508125"/>
@@ -463,7 +463,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="-0.760475" y="-2.802940625"/>
 <vertex x="-0.733934375" y="-2.794559375"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="-0.44335625" y="-2.780615625"/>
 <vertex x="-0.44335625" y="-2.788996875"/>
 <vertex x="-0.23380625" y="-2.788996875"/>
@@ -480,17 +480,17 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="-0.232409375" y="-2.434159375"/>
 <vertex x="-0.441959375" y="-2.77921875"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="-0.44335625" y="-2.780615625"/>
 <vertex x="-0.447546875" y="-2.788996875"/>
 <vertex x="-0.44335625" y="-2.788996875"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="0.216028125" y="-2.79036875"/>
 <vertex x="0.22021875" y="-2.79036875"/>
 <vertex x="0.216028125" y="-2.781984375"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="-0.7325375" y="-2.104465625"/>
 <vertex x="-0.7325375" y="-2.274875"/>
 <vertex x="-0.67106875" y="-2.30141875"/>
@@ -505,7 +505,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="-0.53136875" y="-2.192453125"/>
 <vertex x="-0.631953125" y="-2.122628125"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="1.65214375" y="-2.10025"/>
 <vertex x="1.5040625" y="-2.139365625"/>
 <vertex x="1.3992875" y="-2.262328125"/>
@@ -530,7 +530,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="1.810003125" y="-2.151965625"/>
 <vertex x="1.653540625" y="-2.098878125"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="0.23698125" y="-2.10863125"/>
 <vertex x="0.23698125" y="-2.19108125"/>
 <vertex x="0.442340625" y="-2.19108125"/>
@@ -540,7 +540,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="0.72593125" y="-2.19105625"/>
 <vertex x="0.72593125" y="-2.10863125"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="0.81394375" y="-2.10865625"/>
 <vertex x="0.81394375" y="-2.79039375"/>
 <vertex x="1.272159375" y="-2.79039375"/>
@@ -555,19 +555,19 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="1.2581875" y="-2.110053125"/>
 <vertex x="0.812546875" y="-2.110053125"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="0.26631875" y="1.33075625"/>
 <vertex x="0.229996875" y="1.294434375"/>
 <vertex x="0.193675" y="1.33075625"/>
 <vertex x="0.229996875" y="1.367078125"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="-0.15836875" y="1.33075625"/>
 <vertex x="-0.194690625" y="1.294434375"/>
 <vertex x="-0.2310125" y="1.33075625"/>
 <vertex x="-0.194690625" y="1.367078125"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="0.0358125" y="1.990140625"/>
 <vertex x="-0.003303125" y="1.973378125"/>
 <vertex x="-0.011684375" y="1.928696875"/>
@@ -660,7 +660,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="0.087503125" y="1.92448125"/>
 <vertex x="0.079121875" y="1.9677875"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="0.3152125" y="1.664640625"/>
 <vertex x="0.3152125" y="1.466265625"/>
 <vertex x="0.364109375" y="1.427175"/>
@@ -751,7 +751,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="0.5373375" y="1.611553125"/>
 <vertex x="0.471678125" y="1.664640625"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="1.726184375" y="1.61574375"/>
 <vertex x="1.63956875" y="1.515159375"/>
 <vertex x="1.67449375" y="1.322375"/>
@@ -846,7 +846,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="1.691259375" y="1.170103125"/>
 <vertex x="1.777871875" y="1.300021875"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="0.8390875" y="0.16146875"/>
 <vertex x="-0.780034375" y="0.16146875"/>
 <vertex x="-0.780034375" y="0.04411875"/>
@@ -896,7 +896,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="0.797178125" y="0.136321875"/>
 <vertex x="0.8404875" y="0.162865625"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="0.4898375" y="-0.85135625"/>
 <vertex x="0.093090625" y="-0.85135625"/>
 <vertex x="0.101471875" y="-0.86393125"/>
@@ -920,7 +920,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="0.48425" y="-0.859740625"/>
 <vertex x="0.488440625" y="-0.85135625"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="-0.09969375" y="-0.85135625"/>
 <vertex x="-0.49644375" y="-0.85135625"/>
 <vertex x="-0.4880625" y="-0.86393125"/>
@@ -945,12 +945,12 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="-0.108078125" y="-0.859740625"/>
 <vertex x="-0.1038875" y="-0.85135625"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="-0.88061875" y="0.16146875"/>
 <vertex x="-0.8373125" y="0.134925"/>
 <vertex x="-0.794003125" y="0.16146875"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="-0.46151875" y="1.66324375"/>
 <vertex x="-0.53136875" y="1.61015625"/>
 <vertex x="-0.53136875" y="1.47045625"/>
@@ -1017,7 +1017,7 @@ We've spent an enormous amount of time creating and checking these footprints an
 <vertex x="-0.256159375" y="1.661846875"/>
 <vertex x="-0.46151875" y="1.661846875"/>
 </polygon>
-<polygon width="0" layer="21">
+<polygon width="0.01" layer="21">
 <vertex x="-0.67945" y="1.318184375"/>
 <vertex x="-0.67945" y="1.33075625"/>
 <vertex x="-0.68783125" y="1.33075625"/>
